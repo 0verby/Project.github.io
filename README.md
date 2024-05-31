@@ -6,3 +6,7 @@ I decided halfway through my career life to change the course and explore data m
 
 ### More about my projects
 <a href="https://sites.google.com/view/bellevueuniversityfinalproject/home">More About Me</a>
+
+### Contact
+email: 0verby.jenny@gmail.com
+
