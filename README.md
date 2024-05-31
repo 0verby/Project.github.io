@@ -9,4 +9,3 @@ I decided halfway through my career life to change the course and explore data m
 
 ### Contact
 email: 0verby.jenny@gmail.com
-
